@@ -35,7 +35,7 @@ Two categorical columns, CLASSIFICATION and APPLICATION_TYPE were binned, using 
 
   The model was defined as a deep neural net, with two hidden laters and one output layer. The hidden layers utilized relu activation functions, while the output layer utilized softmax to normalize the output of the net.
 
-![Alt text](model summary.png)
+![Alt text](https://github.com/bexlev/deep-learning-challenge/blob/main/model%20summary.png)
 
   It was fit and trained with 100 epochs.
 
